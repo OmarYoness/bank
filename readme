@@ -1,0 +1,43 @@
+ Login with test credentials:
+   - Username: `eng123`
+   - Password: `test123`
+
+## Features in Detail 📝
+
+### Dashboard
+- Current Balance Display
+- Quick Transfer Options
+- Recent Transactions
+- Quick Actions (Deposit/Withdraw)
+
+### Transfers
+- User-to-User Transfers
+- Transaction Notes
+- Transfer History
+- Instant Balance Updates
+
+### Analytics
+- Transaction History
+- Income/Expense Tracking
+- Monthly Trends
+- Visual Data Representation
+
+### Settings
+- Profile Management
+- Security Settings
+- Notification Preferences
+- Password Management
+
+## Security Notes ⚠️
+
+This is a frontend demonstration project. In a production environment, you would need:
+- Backend Server
+- Database Integration
+- Encryption
+- API Security
+- HTTPS
+- Input Validation
+- XSS Protection
+- CSRF Protection
+
+## Responsive Design 📱
